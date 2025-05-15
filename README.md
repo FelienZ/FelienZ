@@ -71,14 +71,4 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/FelienZ/FelienZ/output/snake.svg" alt="Snake animation" />
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelienZ/FelienZ/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelienZ/FelienZ/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FelienZ/FelienZ/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 Thanks for stopping by! 😊 I hope to share more progress here as I grow in my journey
