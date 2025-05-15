@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 🌱 Hi there! I'm currently learning *JavaScript* and diving into the world of web development. I'm focusing on building a strong foundation through small projects and daily practice.
 
 - Current Focus:
+  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
 
-- Plan to Learn:  
+- Plan to Learn:
+  
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,vue,python&theme=light&)](https://skillicons.dev)
 
 🛠️ What I'm working on:
