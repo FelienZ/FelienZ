@@ -71,4 +71,6 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/FelienZ/FelienZ/output/snake.svg" alt="Snake animation" />
 
+###
+
 Thanks for stopping by! 😊 I hope to share more progress here as I grow in my journey
