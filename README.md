@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 I am Passionate About Exploring the Web. Exploring Frontend & Backend as a Computer Science Student.
 ###
 **Tools:**
