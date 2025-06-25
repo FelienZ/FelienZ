@@ -31,4 +31,4 @@ I am Passionate About Exploring the Web. Exploring Frontend & Backend as a Compu
   
 </div>
 
-**Thanks for visiting — let’s keep learning!
+**Thanks for visiting — let’s keep learning!**
