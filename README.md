@@ -31,5 +31,7 @@ I am Passionate About Exploring the Web. Exploring Frontend & Backend as a Compu
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="35" alt="bootstrap logo"  />
   
 </div>
+
 ###
+
 **Thanks for visiting — let’s keep learning!**
