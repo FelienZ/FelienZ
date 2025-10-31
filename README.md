@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Sup! I am Rajab, a Informatics Student and Currently Passionate About Exploring Web Development. <br><br>- 📚 I'm currently learning React, TypeScript and eager to explore more NodeJs's Ecosystem Tools<br>- ⚡ In my free time i express my feelings through things related to visuals and flow.<br>- 🌱 Soon, i interested to Learn  Go, Mobile Development, etc.</p>
+<p align="left">Sup! I am Rajab, an Informatics Student and Currently Passionate About Exploring Web Development. <br><br>- 📚 I'm currently learning React, TypeScript and eager to explore more NodeJs's Ecosystem Tools<br>- ⚡ In my free time i express my feelings through things related to visuals and flow.<br>- 🌱 Soon, i interested to Learn  Go, Mobile Development, etc.</p>
 
 ###
 
